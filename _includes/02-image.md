@@ -1,1 +1,1 @@
-![box figure](figtest.png)
+![box figure](_includes/figtest.png)
