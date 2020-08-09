@@ -1,0 +1,1 @@
+![box figure](figtest.png)
